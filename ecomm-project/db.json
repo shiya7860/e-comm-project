@@ -1,0 +1,81 @@
+{
+  "seller": [
+    {
+      "name": "Shristi madhesiya",
+      "email": "shristimad143@gmail.com",
+      "password": "abc@143",
+      "id": 1
+    },
+    {
+      "name": "rudra madhesiya",
+      "email": "rudramad143@gmail.com",
+      "password": "abc@143",
+      "id": 2
+    },
+    {
+      "name": "shristi",
+      "password": "123456",
+      "email": "shr@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "jj",
+      "password": "jjj",
+      "email": "ashapal2601@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "ggghh",
+      "password": "hh",
+      "email": "hh",
+      "id": 5
+    }
+  ],
+  "product": [
+    {
+      "name": "jj",
+      "price": "88",
+      "color": "m",
+      "category": "mm",
+      "description": "mm",
+      "image": "mm",
+      "id": 3
+    },
+    {
+      "name": "ghg",
+      "price": "789",
+      "color": "jhjj",
+      "category": "jj",
+      "description": "jjj",
+      "image": "knkjb",
+      "id": 4
+    },
+    {
+      "name": "gh",
+      "price": "778",
+      "color": "n",
+      "category": "nn",
+      "description": "nn",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fphotos%2Fphone&psig=AOvVaw0cRKMveWXrxArOj_STywRG&ust=1670670036318000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKC_4YGx7PsCFQAAAAAdAAAAABAE",
+      "id": 5
+    },
+    {
+      "name": "iphone",
+      "price": "120000",
+      "color": "black",
+      "category": "mobiles",
+      "description": "iphone ",
+      "image": "https://encrypted-tbn2gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 6
+    },
+    {
+      "name": "bnb",
+      "price": "757",
+      "color": "h",
+      "category": "nn",
+      "description": "hh",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fphotos%2Ffood&psig=AOvVaw0nlNTXxcu2tW1KedsEYnku&ust=1670672207090000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiAy4257PsCFQAAAAAdAAAAABAE",
+      "id": 7
+    }
+  ]
+}
